@@ -477,6 +477,10 @@ header nav .nav-sections .default-content-wrapper > ul > li > a[aria-current='pa
     align-items: center;
 
     flex: 0 0 auto;
+    color: var(--textColor, #202020);
+    font-size: var(--fontSizeSmall, 14px);
+    text-decoration: none;
+    text-transform: uppercase;
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li > a {
