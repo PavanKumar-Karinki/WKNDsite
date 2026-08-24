@@ -258,12 +258,13 @@
    */
 
   .wkndcarousel .carousel-navigation-buttons {
-    width: 75%;
-    margin: 0 auto;
+    /* width: 75%;
+    margin: 0 auto; */
 
     padding: 12px 28px;
 
-    justify-content: flex-end;
+    /* justify-content: flex-end; */
+    top: 100%;
   }
 }
 
