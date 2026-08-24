@@ -6,6 +6,14 @@ header .nav-wrapper {
   position: fixed;
 }
 
+header.header-wrapper {
+    background-color: var(--bodyBackground, #fff);
+    margin-top: 0;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    -webkit-transition: padding-bottom 0s ease, padding-top 0s;
+}
+
 header nav {
   box-sizing: border-box;
   display: grid;
