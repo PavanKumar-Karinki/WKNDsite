@@ -687,4 +687,9 @@ header .wknd-search input:focus-visible {
     min-height: 82px;
     max-width: 873pt;
   }
+
+  .appear .header-wrapper {
+        padding-bottom: 5px;
+        padding-top: 15px;
+    }
 }
