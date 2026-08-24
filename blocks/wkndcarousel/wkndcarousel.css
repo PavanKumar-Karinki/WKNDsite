@@ -84,7 +84,7 @@
 .wkndcarousel .carousel-slide-content {
   position: relative;
   z-index: 1;
-  padding: 20px 14px;
+  /* padding: 20px 14px; */
   background-color: var(--background-color);
 }
 
