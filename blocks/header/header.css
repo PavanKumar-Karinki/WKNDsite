@@ -440,6 +440,7 @@ header nav .nav-sections .default-content-wrapper > ul > li > a {
 
 header nav .nav-sections .default-content-wrapper > ul > li > a:hover {
   opacity: 0.65;
+  padding: 15px 17px;
 }
 
 header nav .nav-sections .default-content-wrapper > ul > li > a[aria-current='page'] {
@@ -488,7 +489,7 @@ header nav .nav-sections .default-content-wrapper > ul > li > a[aria-current='pa
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li > a {
-    padding: 8px 0;
+    padding: 15px 17px;
 
     font-size: 14px;
     font-weight: 500;
