@@ -222,6 +222,10 @@ header nav a:any-link {
   text-decoration: none;
 }
 
+header nav .nav-sections .default-content-wrapper > ul > li:hover {
+    background-color: var(--brandPrimary, #ffea00);
+}
+
 /* =========================================================
    DESKTOP NAV
    ========================================================= */
