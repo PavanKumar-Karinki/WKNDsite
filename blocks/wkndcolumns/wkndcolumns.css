@@ -53,7 +53,7 @@
   .wkndcolumns > div {
     align-items: center;
     flex-direction: unset;
-    gap: 24px;
+    /* gap: 24px; */
   }
 
   .wkndcolumns > div > div {
