@@ -1,32 +1,32 @@
-.columns > div {
+.wkndcolumns > div {
   display: flex;
   flex-direction: column;
 }
 
-.columns img {
+.wkndcolumns img {
   width: 100%;
 }
 
-.columns > div > div {
+.wkndcolumns > div > div {
   order: 1;
 }
 
-.columns > div > .columns-img-col {
+.wkndcolumns > div > .columns-img-col {
   order: 0;
 }
 
-.columns > div > .columns-img-col img {
+.wkndcolumns > div > .columns-img-col img {
   display: block;
 }
 
 @media (width >= 900px) {
-  .columns > div {
+  .wkndcolumns > div {
     align-items: center;
     flex-direction: unset;
     gap: 24px;
   }
 
-  .columns > div > div {
+  .wkndcolumns > div > div {
     flex: 1;
     order: unset;
   }
