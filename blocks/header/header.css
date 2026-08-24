@@ -681,5 +681,6 @@ header .wknd-search input:focus-visible {
 
   header nav {
     min-height: 82px;
+    max-width: 873pt;
   }
 }
