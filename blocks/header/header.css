@@ -472,7 +472,7 @@ header nav .nav-sections .default-content-wrapper > ul > li > a[aria-current='pa
 
     flex-direction: row;
 
-    gap: 34px;
+    /* gap: 34px; */
 
     margin: 0;
   }
