@@ -15,6 +15,11 @@ header.header-wrapper {
   padding: 0;
   background: #fff;
   color: #202020;
+  background-color: var(--bodyBackground, #fff);
+  margin-top: 0;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  -webkit-transition: padding-bottom 0s ease, padding-top 0s;
 }
 
 header .nav-wrapper {
