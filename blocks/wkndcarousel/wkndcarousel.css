@@ -98,6 +98,17 @@
   margin-bottom: 0;
 }
 
+.carousel-slide-content a {
+    background-color: var(--brandPrimary, #ffea00);
+    border-radius: var(--buttonBorderRadius, 0);
+    color: var(--textColor, #202020);
+    float: left;
+    font-size: var(--fontSizeSmall, 14px);
+    font-weight: var(--fontWeightBold, 600);
+    padding: 1em 2.5em;
+    text-transform: uppercase;
+}
+
 /* ==================================================
    Navigation Buttons
    Bottom Right
